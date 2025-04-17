@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kavi0205/Leetcode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Kavi0205/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/Kavi0205/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
