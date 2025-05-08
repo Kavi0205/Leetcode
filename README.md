@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Kavi0205/Leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Kavi0205/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kavi0205/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Kavi0205/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Kavi0205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Kavi0205/Leetcode/tree/master/0792-binary-search) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Kavi0205/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Kavi0205/Leetcode/tree/master/0189-rotate-array) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kavi0205/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Kavi0205/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Simulation
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kavi0205/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Kavi0205/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
