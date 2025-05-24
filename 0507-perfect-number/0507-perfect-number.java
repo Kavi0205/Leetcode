@@ -5,15 +5,11 @@ class Solution {
         if(num<0){
             return false;
         }
-        while(n<=num/2){
-            if(num%n==0){
-                sum+=n;
+       for(int i=1;i<=num/2;i++){
+            if(num%i==0){
+                sum+=i;
             }
-            n++;
-        }
-        if(sum==num){
-            return true;
-        }
-        return false;
+       }
+       return sum==num;
     }
 }
