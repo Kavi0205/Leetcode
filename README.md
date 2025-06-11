@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Kavi0205/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Kavi0205/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Kavi0205/Leetcode/tree/master/1137-height-checker) |
+| [2058-concatenation-of-array](https://github.com/Kavi0205/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Kavi0205/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Bit Manipulation
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/Kavi0205/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [2058-concatenation-of-array](https://github.com/Kavi0205/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Kavi0205/Leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 ## Hash Table
 |  |
